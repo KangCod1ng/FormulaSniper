@@ -1,0 +1,21 @@
+{
+  "hotkey": {
+    "key": "m",
+    "modifiers": ["ctrl", "shift"]
+  },
+  "ocr": {
+    "device": "cpu",
+    "text_model": "pix2text",
+    "formula_model": "pix2text",
+    "layout_model": "pix2text"
+  },
+  "behavior": {
+    "auto_copy_to_clipboard": true,
+    "show_notification": true,
+    "notification_duration_ms": 3000
+  },
+  "models": {
+    "cache_dir": "./models",
+    "auto_download": true
+  }
+}

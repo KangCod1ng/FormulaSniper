@@ -1,0 +1,18 @@
+# 虚拟环境
+.venv/
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# 模型文件（体积大，由用户自行下载）
+models/
+
+# IDE
+.vscode/
+.idea/
+
+# 系统垃圾
+Thumbs.db
+Desktop.ini
