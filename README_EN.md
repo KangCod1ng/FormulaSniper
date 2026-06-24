@@ -2,10 +2,7 @@
 
 <!-- markdownlint-disable MD033 -->
 <p align="center">
-  <img src="assets/icon.png" alt="FormulaSniper" width="128" />
-</p>
-<p align="center">
-  <strong>Screenshot → OCR → LaTeX to Clipboard → Paste into Obsidian</strong>
+  <strong>⚡ Screenshot → OCR → LaTeX to Clipboard → Paste into Obsidian</strong>
 </p>
 <p align="center">
   <a href="README.md">中文</a>
@@ -40,7 +37,7 @@ The app automatically recognizes both **text** and **math formulas** in your scr
 
 ```powershell
 # 1. Clone the repo
-git clone https://github.com/your-username/FormulaSniper.git
+git clone https://github.com/KangCod1ng/FormulaSniper.git
 cd FormulaSniper
 
 # 2. Create a virtual environment

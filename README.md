@@ -2,10 +2,7 @@
 
 <!-- markdownlint-disable MD033 -->
 <p align="center">
-  <img src="assets/icon.png" alt="FormulaSniper" width="128" />
-</p>
-<p align="center">
-  <strong>截图 → 识别 → LaTeX 入剪贴板 → 粘贴到 Obsidian</strong>
+  <strong>⚡ 截图 → 识别 → LaTeX 入剪贴板 → 粘贴到 Obsidian</strong>
 </p>
 <p align="center">
   <a href="README_EN.md">English</a>
@@ -40,7 +37,7 @@
 
 ```powershell
 # 1. 克隆项目
-git clone https://github.com/your-username/FormulaSniper.git
+git clone https://github.com/KangCod1ng/FormulaSniper.git
 cd FormulaSniper
 
 # 2. 创建虚拟环境
